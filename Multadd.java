@@ -5,6 +5,7 @@ public class Multadd
         double a=1.0,b=2.0,c=3.0;
         System.out.println(multadd(a,b,c));
         System.out.println(multadd(0.5,Math.cos(Math.PI/4.0),Math.cos(Math.PI*0.5-Math.PI/4.0)));
+        System.out.println(multadd(1,(Math.log(10)/Math.log(10)),(Math.log(20)/Math.log(10))));
         System.out.println(expSum(1.2));
         
     }
